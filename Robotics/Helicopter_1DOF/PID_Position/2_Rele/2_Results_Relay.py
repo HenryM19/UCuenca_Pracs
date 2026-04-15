@@ -12,7 +12,6 @@ from pathlib import Path
 
 # --- CONFIGURACIÓN DE RUTAS ---
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-# Asegúrate de que este patrón coincida con el nombre de tu archivo generado
 CSV_PATTERN = os.path.join(BASE_DIR, "Results", "2_results_rele.csv")
 
 def a_float(valor, default=0.0):
