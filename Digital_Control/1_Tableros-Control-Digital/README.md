@@ -40,27 +40,32 @@ Este repositorio reúne recursos para trabajar con tableros y PLC en la asignatu
 
 La carpeta [Prácticas/](Pr%C3%A1cticas/) concentra el trabajo de laboratorio. Cada práctica se organiza por plataforma HMI o tipo de ejercicio.
 
-### Práctica 1
+### Práctica 1: Manejo de enradas y salidas digitales del Controllino Mega
+
+En esta práctica se trabaja la lógica base de entradas (botones) y salidas del tablero, como también en mejorar la progración de micro controladores usando datos de tipo: struct, enum y punteros.
 
 - [Practica1/](Pr%C3%A1cticas/Practica1/)
   - [Practica1_Botones/](Pr%C3%A1cticas/Practica1/Practica1_Botones/)
   - [Practica1_Salidas/](Pr%C3%A1cticas/Practica1/Practica1_Salidas/)
 
-En esta práctica se trabaja la lógica base de entradas (botones) y salidas del tablero.
 
-### Práctica 2
+
+### Práctica 2: Manejo básico de HMI
+
+Introducción al manejo de HMI (Coolmay o Stone) y su configuración para interacción con el Controllino Mega. 
 
 - [Practica2/](Pr%C3%A1cticas/Practica2/)
   - [Practica2_Coolmay/](Pr%C3%A1cticas/Practica2/Practica2_Coolmay/)
   - [Practica2_Stone/](Pr%C3%A1cticas/Practica2/Practica2_Stone/)
 
-Se integra el control con interfaz HMI, usando el HMI Coolmay como también el HMI Stone. 
 
-### Práctica 3
+
+### Práctica 3: Control de motor DC
+
+Enfocada en desarrollar un controlador PID, el documento guía el proceso de configuración para implementar el controlador PID en el Controllino Mega. 
 
 - [Practica3/](Pr%C3%A1cticas/Practica3/)
     - [Practica3_Coolmay/](Pr%C3%A1cticas/Practica3/Practica3_Coolmay/)
     - [Practica3_Stone/](Pr%C3%A1cticas/Practica3/Practica3_Stone/)
 
-Configuración para muestreo del EPC y acción de control. Se integra la visualización de las señales de control en el HMI (Coolmay o Stone).
 
