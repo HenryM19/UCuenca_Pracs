@@ -1,9 +1,5 @@
 # Informacion Tableros
 
-Este repositorio contiene el material para el desarrollo de las prácticas de la asignatura  Control Digital. 
-
-## ¿De qué trata este repositorio?
-
 Este repositorio reúne recursos para trabajar con tableros y PLC en la asignatura de Control Digital. Incluye:
 
 - Guías y ejemplos para hardware CONTROLLINO y ESP32 PLC.
